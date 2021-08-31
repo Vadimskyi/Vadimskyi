@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a "Top-down MMO Battle Arena shooter" project!
 - 🌱 I’m currently learning processor cache architecture 😭
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: make more games and Youtube content!
+- 🥅 2021 Goals: TODO!
 - ⚡ Fun fact: I love to fight (MMA), ski and play volleyball 🔥
 
 ### Connect with me:
