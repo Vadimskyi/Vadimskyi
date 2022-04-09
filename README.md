@@ -28,6 +28,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Unity’s Package Manager Tutorial](https://www.youtube.com/watch?v=hToMmZB9UWI)
 - [Hosting Unity Server on Linux | Unity Headless Linux Server (2020)](https://www.youtube.com/watch?v=XsUIf1tK07I)
 - [Netcode for Game Developers (2020)](https://www.youtube.com/watch?v=6WmK9qa2KIg)
 - [Unity 2020 DOTS | Optimize with Burst Compiler (2019)](https://www.youtube.com/watch?v=hNvtFSlxut8)
