@@ -1,7 +1,7 @@
 ### Hi there, I'm Vadim - aka [Vadimskyi][website] 👋
 
 ## I'm a C# Programmer, Game Developer, Backend Developer, and Content Creator!
-- 🔭 I’m currently working on a "Top-down MMO Battle Arena shooter" project!
+- 🔭 I’m currently working on a Tower Defense type project!
 - 🌱 I’m currently learning processor cache architecture 😭
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to fight (MMA), ski and play volleyball 🔥
